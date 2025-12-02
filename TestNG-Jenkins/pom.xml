@@ -64,7 +64,7 @@
               <version>${maven.surefire.plugin.version}</version>
               <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFile>src/test/resources/TestNG.xml</suiteXmlFile>
+                        <suiteXmlFile>TestNG.xml</suiteXmlFile>
                     </suiteXmlFiles>
                     <testFailureIgnore>false</testFailureIgnore>
        				<reportsDirectory>${project.build.directory}/surefire-reports</reportsDirectory>
