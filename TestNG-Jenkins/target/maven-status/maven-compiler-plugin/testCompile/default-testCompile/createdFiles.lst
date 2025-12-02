@@ -1,0 +1,6 @@
+com\Tests\DashboardTests.class
+com\Tests\TestExecutionListener.class
+com\Tests\LoginTests.class
+com\Pages\DashboardPage.class
+com\Pages\LoginPage.class
+com\Tests\BaseTest.class
